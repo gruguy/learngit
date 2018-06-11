@@ -1,7 +1,2 @@
-this is my git readme.txt
-
-gruguy makes it.
-
-git is free software.
-
-git is a distributed version control system.
+git is a istributed version control system.
+Git is free software distributed uer the GPL.
